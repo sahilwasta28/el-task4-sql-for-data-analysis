@@ -1,0 +1,251 @@
+category,currency,customer_first_name,customer_last_name,customer_gender,customer_city,continent,country,manufacturer,order_date,order_id,product_name,sku,taxless_total_price,total_quantity
+Men's Shoes,EUR,John,White,FEMALE,San Francisco,Europe,IT,BrandD,26-04-2018,1,Shoes,SKU9308,749.97,3
+Men's Shoes,EUR,John,Taylor,MALE,Miami,North America,US,BrandD,05-07-2019,2,Dress,SKU2445,161.55,3
+Women's Shoes,USD,Laura,Brown,FEMALE,Dallas,North America,US,BrandA,02-07-2018,3,Hat,SKU1247,1291.52,4
+Women's Accessories,USD,James,Anderson,FEMALE,Chicago,Europe,DE,BrandA,28-08-2018,4,Hat,SKU5591,686.48,4
+Women's Shoes,USD,David,White,FEMALE,Miami,North America,ES,BrandD,27-01-2019,5,Jacket,SKU8237,145.28,1
+Women's Clothing,USD,Laura,Harris,FEMALE,Los Angeles,Europe,US,BrandA,09-10-2019,6,Shoes,SKU3857,469.96,2
+Men's Clothing,USD,Anna,White,FEMALE,Los Angeles,Europe,FR,BrandD,21-02-2018,7,Jacket,SKU8023,944.5,2
+Men's Shoes,EUR,John,Johnson,MALE,Boston,Europe,DE,BrandA,29-06-2019,8,Dress,SKU4666,67.2,3
+Women's Clothing,EUR,Laura,Brown,MALE,Boston,Europe,FR,BrandB,18-09-2019,9,Jacket,SKU7235,1567.12,4
+Men's Shoes,USD,Chris,Brown,MALE,Los Angeles,Europe,FR,BrandC,11-04-2018,10,Shirt,SKU6708,1216.17,3
+Women's Accessories,EUR,David,Smith,FEMALE,Dallas,North America,ES,BrandA,07-05-2018,11,Hat,SKU9015,1076.34,3
+Women's Accessories,USD,Laura,Martin,MALE,Miami,Europe,FR,BrandC,08-06-2018,12,Bag,SKU9823,1774.75,5
+Men's Shoes,EUR,Emily,Harris,FEMALE,Miami,Europe,US,BrandD,30-06-2019,13,Jacket,SKU2619,1055.65,5
+Women's Shoes,USD,Sarah,Jackson,FEMALE,Boston,North America,DE,BrandD,04-08-2019,14,Shirt,SKU2173,1507.85,5
+Women's Accessories,EUR,Emily,Johnson,FEMALE,New York,Europe,ES,BrandD,23-03-2018,15,Hat,SKU5511,2255.55,5
+Women's Clothing,USD,Michael,Thomas,FEMALE,San Francisco,North America,FR,BrandB,19-01-2019,16,Dress,SKU7468,418.21,1
+Men's Shoes,USD,Laura,Brown,FEMALE,Houston,North America,US,BrandC,23-10-2019,17,Dress,SKU5729,455.36,2
+Women's Accessories,EUR,Emily,Harris,MALE,Dallas,Europe,IT,BrandD,03-05-2019,18,Bag,SKU5788,269.42,2
+Women's Accessories,EUR,James,Brown,MALE,Dallas,North America,US,BrandC,29-03-2018,19,Shirt,SKU1541,350.83,1
+Women's Shoes,EUR,James,Taylor,FEMALE,Dallas,North America,IT,BrandD,22-08-2019,20,Bag,SKU2781,1076.32,4
+Men's Clothing,EUR,Jane,Smith,MALE,New York,Europe,ES,BrandA,13-10-2019,21,Dress,SKU9988,79.9,5
+Women's Accessories,USD,Michael,Smith,FEMALE,San Francisco,Europe,DE,BrandD,06-02-2019,22,Dress,SKU6404,921.25,5
+Women's Shoes,EUR,Michael,Brown,FEMALE,Houston,Europe,FR,BrandB,04-09-2018,23,Shoes,SKU3227,441.88,2
+Men's Shoes,USD,James,Smith,MALE,Houston,North America,DE,BrandC,10-11-2019,24,Jacket,SKU7206,744.05,5
+Men's Clothing,USD,Emily,Harris,MALE,Houston,North America,FR,BrandA,01-02-2018,25,Bag,SKU5728,215.25,1
+Men's Clothing,USD,James,Johnson,MALE,Boston,Europe,FR,BrandD,13-05-2018,26,Dress,SKU5443,625.38,3
+Women's Accessories,EUR,James,White,MALE,Houston,Europe,ES,BrandA,20-07-2019,27,Hat,SKU5962,809.12,4
+Women's Shoes,EUR,Sarah,Smith,FEMALE,Boston,North America,ES,BrandC,24-12-2019,28,Jacket,SKU3033,330.81,3
+Women's Accessories,USD,Chris,Jackson,FEMALE,Miami,Europe,US,BrandD,01-04-2019,29,Hat,SKU7819,281.31,3
+Women's Shoes,EUR,Jane,White,MALE,Dallas,North America,IT,BrandD,26-11-2018,30,Bag,SKU8582,277.89,3
+Women's Clothing,EUR,Sarah,Martin,FEMALE,Chicago,Europe,ES,BrandC,28-10-2019,31,Shirt,SKU5449,482.68,2
+Women's Shoes,USD,Jane,Thomas,FEMALE,Chicago,North America,IT,BrandA,01-04-2018,32,Dress,SKU8029,1416.48,4
+Women's Shoes,EUR,Anna,Smith,MALE,New York,Europe,DE,BrandC,14-05-2019,33,Hat,SKU1653,657.3,3
+Women's Accessories,USD,Anna,Brown,FEMALE,San Francisco,North America,DE,BrandA,26-12-2018,34,Dress,SKU2753,2225.2,5
+Women's Shoes,EUR,Chris,White,MALE,Dallas,North America,US,BrandB,25-12-2019,35,Jacket,SKU6177,981.6,3
+Women's Shoes,EUR,Laura,Harris,FEMALE,Miami,North America,DE,BrandA,10-06-2018,36,Dress,SKU4740,1132.32,3
+Men's Shoes,USD,Sarah,Thomas,MALE,Los Angeles,Europe,US,BrandA,12-12-2019,37,Dress,SKU6068,452.4,4
+Women's Clothing,EUR,Laura,White,FEMALE,Miami,North America,IT,BrandA,22-09-2019,38,Dress,SKU2301,421.14,3
+Women's Shoes,EUR,Laura,White,MALE,New York,Europe,DE,BrandA,23-04-2018,39,Dress,SKU6137,1407.54,3
+Men's Clothing,USD,Chris,Thomas,MALE,Chicago,North America,FR,BrandC,24-11-2018,40,Shirt,SKU6527,1991.2,4
+Men's Clothing,EUR,Laura,Smith,MALE,Miami,Europe,ES,BrandC,08-11-2019,41,Dress,SKU5305,765.72,4
+Women's Clothing,USD,Jane,Taylor,FEMALE,Dallas,North America,DE,BrandB,07-10-2018,42,Dress,SKU2758,441.98,2
+Men's Clothing,USD,Emily,Thomas,MALE,San Francisco,North America,ES,BrandC,07-08-2019,43,Bag,SKU1134,447.2,1
+Women's Clothing,USD,Anna,Taylor,MALE,San Francisco,Europe,FR,BrandB,21-10-2018,44,Hat,SKU1778,753.52,2
+Men's Clothing,EUR,Jane,Smith,MALE,Boston,Europe,DE,BrandC,23-05-2019,45,Shirt,SKU7278,368,1
+Women's Accessories,USD,James,Taylor,MALE,Chicago,North America,DE,BrandD,23-09-2018,46,Shoes,SKU7686,292.86,2
+Men's Shoes,USD,James,White,MALE,Miami,Europe,ES,BrandB,26-06-2019,47,Bag,SKU3746,780.51,3
+Women's Accessories,EUR,Anna,Johnson,MALE,San Francisco,North America,ES,BrandB,29-11-2018,48,Shoes,SKU5002,579.18,3
+Men's Clothing,EUR,Chris,Jackson,FEMALE,Chicago,North America,US,BrandB,25-12-2018,49,Dress,SKU8391,1219.6,4
+Men's Shoes,EUR,Emily,Smith,MALE,Los Angeles,North America,US,BrandC,22-11-2018,50,Shirt,SKU7458,86.06,1
+Women's Shoes,EUR,Jane,Johnson,FEMALE,Houston,North America,DE,BrandC,31-07-2018,51,Shoes,SKU7636,731.9,2
+Men's Shoes,USD,Michael,Anderson,FEMALE,Dallas,North America,FR,BrandB,16-12-2018,52,Jacket,SKU3023,360.65,5
+Men's Shoes,EUR,Chris,Jackson,MALE,Miami,North America,DE,BrandA,21-01-2018,53,Bag,SKU7657,68.38,1
+Women's Accessories,USD,Laura,Johnson,FEMALE,Dallas,Europe,US,BrandB,14-01-2019,54,Shoes,SKU4385,1654.44,4
+Men's Clothing,EUR,Laura,Martin,FEMALE,Los Angeles,Europe,IT,BrandB,03-01-2019,55,Hat,SKU1185,1653.48,4
+Women's Shoes,USD,Laura,Harris,FEMALE,Dallas,North America,US,BrandB,14-06-2019,56,Jacket,SKU8563,91.66,1
+Women's Accessories,EUR,Jane,Taylor,FEMALE,Los Angeles,Europe,ES,BrandD,17-02-2018,57,Bag,SKU8169,1195.2,4
+Women's Shoes,EUR,Michael,Anderson,FEMALE,Boston,North America,ES,BrandD,21-04-2019,58,Bag,SKU6105,223.49,1
+Men's Shoes,USD,Jane,Smith,MALE,Houston,Europe,IT,BrandB,25-08-2019,59,Shoes,SKU6291,976.96,4
+Women's Shoes,EUR,Chris,Smith,FEMALE,San Francisco,North America,IT,BrandB,31-05-2018,60,Dress,SKU3669,1202.5,5
+Men's Shoes,USD,David,Johnson,MALE,San Francisco,North America,IT,BrandB,08-01-2019,61,Dress,SKU2869,183.26,1
+Women's Clothing,EUR,James,Taylor,FEMALE,Dallas,Europe,IT,BrandC,09-03-2019,62,Dress,SKU9386,1679.55,5
+Women's Clothing,EUR,Emily,Thomas,FEMALE,Boston,North America,ES,BrandA,12-01-2018,63,Hat,SKU6051,121.07,1
+Women's Clothing,EUR,Laura,Smith,MALE,Chicago,North America,IT,BrandB,10-06-2018,64,Bag,SKU5485,276.78,3
+Women's Shoes,USD,Chris,Harris,FEMALE,Boston,Europe,ES,BrandC,12-11-2019,65,Jacket,SKU3721,596.52,4
+Women's Accessories,USD,Emily,Brown,MALE,Los Angeles,Europe,FR,BrandB,24-10-2018,66,Bag,SKU7436,283.04,2
+Men's Clothing,USD,Michael,Jackson,FEMALE,Dallas,North America,US,BrandB,15-12-2018,67,Shirt,SKU5832,972.06,2
+Women's Accessories,USD,Chris,Thomas,MALE,Boston,North America,DE,BrandB,30-08-2019,68,Jacket,SKU6688,483.39,1
+Women's Clothing,EUR,Laura,White,MALE,Miami,Europe,DE,BrandB,30-04-2018,69,Shirt,SKU4244,999.84,3
+Women's Clothing,EUR,Laura,Harris,FEMALE,San Francisco,Europe,US,BrandB,07-04-2018,70,Hat,SKU8994,2324.65,5
+Men's Clothing,EUR,David,Anderson,MALE,New York,Europe,US,BrandA,21-07-2018,71,Hat,SKU3362,161.12,4
+Women's Shoes,EUR,Michael,Jackson,FEMALE,Dallas,Europe,IT,BrandA,06-09-2019,72,Jacket,SKU3695,659.04,2
+Men's Shoes,EUR,Laura,White,MALE,Miami,North America,DE,BrandA,27-02-2018,73,Hat,SKU7430,96.19,1
+Men's Shoes,USD,John,Martin,MALE,Miami,Europe,IT,BrandA,31-08-2019,74,Shirt,SKU4603,193.21,1
+Women's Accessories,EUR,David,Thomas,MALE,Houston,Europe,IT,BrandD,15-04-2019,75,Jacket,SKU5113,1368.96,3
+Men's Shoes,USD,James,Johnson,MALE,Houston,Europe,ES,BrandB,01-09-2018,76,Hat,SKU5523,582.54,2
+Women's Clothing,EUR,Michael,Harris,FEMALE,Boston,Europe,US,BrandB,24-05-2018,77,Hat,SKU7686,255.54,1
+Women's Shoes,USD,Emily,Smith,FEMALE,Boston,North America,DE,BrandC,30-10-2019,78,Dress,SKU3710,802.26,2
+Women's Clothing,EUR,Michael,Anderson,MALE,Los Angeles,Europe,US,BrandA,04-01-2018,79,Jacket,SKU4951,1409.9,5
+Women's Clothing,USD,David,Martin,FEMALE,Houston,Europe,IT,BrandD,08-07-2019,80,Bag,SKU2603,1032.12,4
+Men's Shoes,EUR,John,Thomas,FEMALE,New York,Europe,IT,BrandB,18-07-2019,81,Shoes,SKU4769,32.82,3
+Women's Shoes,EUR,Anna,Jackson,FEMALE,Miami,Europe,US,BrandC,15-06-2018,82,Hat,SKU6997,387.99,1
+Women's Accessories,USD,Laura,Johnson,FEMALE,San Francisco,Europe,ES,BrandD,26-01-2019,83,Bag,SKU2618,108.67,1
+Women's Clothing,USD,Laura,Johnson,MALE,San Francisco,North America,IT,BrandD,23-03-2018,84,Bag,SKU9844,288.51,1
+Women's Clothing,USD,Anna,Taylor,MALE,Los Angeles,Europe,ES,BrandC,26-12-2018,85,Shirt,SKU6149,707.52,4
+Women's Clothing,USD,Anna,Taylor,MALE,Los Angeles,Europe,ES,BrandA,20-07-2019,86,Bag,SKU9179,700.2,3
+Men's Shoes,EUR,Emily,Martin,FEMALE,Miami,Europe,FR,BrandB,30-11-2018,87,Dress,SKU2619,686.56,2
+Men's Shoes,EUR,John,Smith,MALE,Los Angeles,North America,FR,BrandD,27-12-2018,88,Shirt,SKU6152,878.65,5
+Men's Clothing,USD,Laura,Thomas,FEMALE,Dallas,Europe,IT,BrandC,29-08-2019,89,Dress,SKU2425,1104.48,4
+Women's Accessories,EUR,John,Taylor,MALE,Los Angeles,North America,ES,BrandB,05-12-2018,90,Shirt,SKU9504,817.4,5
+Men's Clothing,EUR,John,Anderson,FEMALE,Los Angeles,Europe,FR,BrandD,23-03-2018,91,Shoes,SKU3705,1397.6,5
+Women's Clothing,USD,James,Johnson,FEMALE,Miami,Europe,ES,BrandA,13-10-2018,92,Jacket,SKU6124,1926.52,4
+Women's Shoes,EUR,Michael,Thomas,FEMALE,Boston,Europe,IT,BrandA,12-02-2019,93,Bag,SKU5808,1208.36,4
+Men's Clothing,USD,James,Anderson,MALE,San Francisco,North America,FR,BrandC,23-08-2018,94,Jacket,SKU9996,410.25,1
+Women's Shoes,USD,Sarah,Harris,MALE,San Francisco,North America,ES,BrandA,24-01-2019,95,Shirt,SKU4320,853.96,2
+Women's Shoes,EUR,David,Taylor,FEMALE,Miami,North America,US,BrandD,20-09-2018,96,Bag,SKU4658,100.74,3
+Women's Shoes,EUR,Chris,Thomas,MALE,Los Angeles,North America,ES,BrandD,25-03-2018,97,Jacket,SKU1151,2047.35,5
+Men's Shoes,USD,John,Harris,FEMALE,Dallas,North America,US,BrandA,27-09-2019,98,Shirt,SKU6912,735.56,4
+Men's Clothing,USD,Anna,Johnson,MALE,San Francisco,Europe,ES,BrandA,22-11-2018,99,Bag,SKU9011,22.71,1
+Men's Shoes,USD,Anna,Thomas,FEMALE,Los Angeles,North America,IT,BrandB,21-02-2018,100,Dress,SKU8485,195.12,1
+Men's Shoes,EUR,James,Jackson,MALE,Miami,Europe,US,BrandC,04-06-2019,101,Hat,SKU3626,791.7,5
+Women's Shoes,USD,James,Smith,FEMALE,Chicago,North America,FR,BrandC,11-10-2019,102,Hat,SKU7228,1437.24,3
+Women's Accessories,EUR,John,Smith,MALE,Chicago,North America,US,BrandB,15-06-2019,103,Bag,SKU7844,80.21,1
+Women's Shoes,EUR,David,Jackson,MALE,Boston,Europe,IT,BrandD,14-12-2018,104,Bag,SKU1925,377.72,2
+Women's Accessories,USD,John,Johnson,FEMALE,Miami,Europe,FR,BrandC,11-02-2018,105,Bag,SKU2629,363.64,1
+Women's Accessories,EUR,Laura,Johnson,MALE,New York,Europe,IT,BrandD,24-11-2018,106,Dress,SKU9738,450.06,3
+Men's Shoes,USD,Chris,Anderson,MALE,Houston,North America,IT,BrandD,24-04-2018,107,Shoes,SKU8010,936.09,3
+Women's Accessories,USD,Laura,Thomas,MALE,Boston,Europe,FR,BrandC,21-03-2018,108,Shirt,SKU8692,872.14,2
+Men's Clothing,EUR,Chris,Smith,MALE,Miami,Europe,DE,BrandC,10-06-2018,109,Jacket,SKU2999,704.43,3
+Women's Accessories,USD,John,Smith,FEMALE,San Francisco,North America,IT,BrandA,06-06-2018,110,Hat,SKU9739,74.02,2
+Men's Clothing,EUR,James,Smith,FEMALE,Houston,North America,DE,BrandA,23-10-2019,111,Hat,SKU7630,945.48,2
+Women's Clothing,EUR,John,White,MALE,Chicago,North America,DE,BrandA,04-03-2018,112,Shirt,SKU5512,1044.2,4
+Women's Shoes,EUR,Michael,White,MALE,New York,North America,FR,BrandD,11-06-2019,113,Dress,SKU4539,106.44,1
+Women's Clothing,EUR,Emily,Jackson,FEMALE,New York,North America,FR,BrandA,09-06-2019,114,Shoes,SKU6605,1661.65,5
+Women's Accessories,USD,Chris,Johnson,MALE,Boston,Europe,ES,BrandC,01-04-2018,115,Shirt,SKU3408,2402.45,5
+Women's Clothing,EUR,Emily,Taylor,MALE,Boston,North America,DE,BrandC,17-08-2019,116,Dress,SKU8461,1071.08,4
+Women's Accessories,USD,Anna,Brown,FEMALE,Boston,Europe,US,BrandA,19-10-2018,117,Hat,SKU4885,416.91,3
+Men's Clothing,USD,Anna,White,MALE,San Francisco,North America,DE,BrandB,11-08-2019,118,Dress,SKU8323,1447.76,4
+Women's Clothing,EUR,James,Smith,FEMALE,Los Angeles,Europe,IT,BrandD,29-06-2018,119,Bag,SKU4188,773.38,2
+Women's Shoes,EUR,Chris,Thomas,FEMALE,Miami,Europe,DE,BrandB,08-02-2019,120,Dress,SKU6839,213.52,4
+Men's Shoes,USD,Sarah,Johnson,MALE,Chicago,North America,US,BrandC,12-08-2019,121,Hat,SKU4599,676.05,5
+Men's Shoes,USD,James,Anderson,FEMALE,San Francisco,North America,IT,BrandB,16-07-2019,122,Shirt,SKU2092,801.58,2
+Women's Clothing,EUR,David,Brown,FEMALE,Boston,Europe,DE,BrandC,17-10-2018,123,Hat,SKU6741,950.28,3
+Women's Clothing,USD,Michael,Harris,FEMALE,Miami,North America,ES,BrandD,26-04-2019,124,Dress,SKU7067,879.64,4
+Women's Accessories,USD,Laura,Johnson,MALE,Los Angeles,Europe,US,BrandA,04-07-2019,125,Shoes,SKU5176,782.67,3
+Men's Clothing,USD,James,Brown,FEMALE,Los Angeles,Europe,US,BrandB,01-12-2018,126,Hat,SKU1701,128.68,2
+Women's Clothing,EUR,Laura,Brown,FEMALE,San Francisco,North America,FR,BrandC,28-07-2019,127,Shoes,SKU1381,408.5,5
+Men's Shoes,EUR,John,Johnson,FEMALE,San Francisco,North America,US,BrandD,12-10-2018,128,Dress,SKU1131,116.14,2
+Men's Shoes,USD,James,Taylor,MALE,Chicago,Europe,IT,BrandD,17-09-2018,129,Bag,SKU6121,664.6,2
+Men's Shoes,EUR,Emily,Johnson,MALE,Miami,Europe,ES,BrandD,25-05-2018,130,Bag,SKU8093,434.97,1
+Men's Clothing,USD,Jane,White,FEMALE,San Francisco,Europe,US,BrandD,12-05-2018,131,Shoes,SKU8352,1838.68,4
+Women's Clothing,USD,John,Brown,FEMALE,Houston,Europe,DE,BrandB,16-03-2018,132,Jacket,SKU5116,1650.75,5
+Men's Clothing,EUR,Michael,Anderson,FEMALE,Houston,Europe,FR,BrandD,02-04-2019,133,Dress,SKU6427,2472.75,5
+Men's Clothing,USD,Laura,Johnson,MALE,Los Angeles,Europe,US,BrandA,12-12-2018,134,Hat,SKU5693,138.82,1
+Men's Clothing,EUR,John,Taylor,FEMALE,New York,North America,ES,BrandB,07-11-2019,135,Dress,SKU5561,1700.16,4
+Women's Accessories,EUR,Michael,Taylor,MALE,Chicago,Europe,IT,BrandA,23-03-2018,136,Jacket,SKU7782,490.45,5
+Women's Clothing,USD,Anna,Harris,MALE,Miami,North America,US,BrandD,15-01-2019,137,Hat,SKU1385,1277.08,4
+Women's Clothing,USD,David,Jackson,MALE,Boston,Europe,US,BrandC,21-10-2018,138,Jacket,SKU4791,27.15,1
+Men's Shoes,EUR,Michael,Thomas,FEMALE,Dallas,Europe,IT,BrandB,16-12-2018,139,Dress,SKU9622,71.28,3
+Men's Shoes,EUR,Anna,Anderson,FEMALE,New York,Europe,IT,BrandB,11-08-2019,140,Dress,SKU8469,424.26,2
+Men's Shoes,USD,Jane,Harris,FEMALE,Boston,Europe,IT,BrandA,23-12-2019,141,Shirt,SKU8379,324.76,1
+Women's Accessories,USD,Jane,Taylor,MALE,Boston,Europe,ES,BrandD,23-05-2019,142,Shirt,SKU7846,1090.05,3
+Men's Clothing,USD,Jane,White,MALE,Boston,North America,DE,BrandD,30-12-2018,143,Hat,SKU7036,652.2,2
+Men's Shoes,USD,John,Anderson,MALE,Dallas,Europe,IT,BrandC,07-06-2018,144,Hat,SKU6005,1611.68,4
+Men's Shoes,USD,Jane,Jackson,MALE,Dallas,North America,ES,BrandB,05-05-2018,145,Shoes,SKU9986,1983.76,4
+Women's Shoes,USD,Sarah,Harris,FEMALE,Dallas,North America,FR,BrandB,09-03-2019,146,Shirt,SKU2253,448.44,3
+Women's Accessories,USD,Emily,Taylor,MALE,Chicago,North America,FR,BrandB,26-03-2018,147,Bag,SKU7219,123.12,4
+Men's Shoes,USD,Michael,White,MALE,New York,Europe,US,BrandD,11-03-2019,148,Dress,SKU2511,964.44,3
+Men's Clothing,USD,Michael,White,FEMALE,Boston,Europe,IT,BrandD,05-02-2019,149,Bag,SKU1227,443.44,2
+Women's Accessories,EUR,James,Smith,FEMALE,Houston,North America,FR,BrandD,04-05-2018,150,Shoes,SKU9403,2130.75,5
+Women's Accessories,EUR,Emily,Thomas,FEMALE,New York,Europe,DE,BrandB,23-02-2019,151,Bag,SKU2011,940.76,4
+Men's Clothing,USD,Sarah,Thomas,FEMALE,Houston,North America,IT,BrandD,29-05-2019,152,Dress,SKU5075,701.4,3
+Women's Accessories,EUR,Michael,Anderson,MALE,Los Angeles,North America,DE,BrandD,21-11-2019,153,Bag,SKU8363,458.96,4
+Men's Clothing,USD,Sarah,Smith,MALE,Miami,North America,DE,BrandA,02-04-2018,154,Shoes,SKU5733,431.75,5
+Men's Shoes,EUR,Anna,Martin,FEMALE,Miami,Europe,DE,BrandD,05-04-2019,155,Dress,SKU4934,1904.85,5
+Men's Clothing,USD,James,Thomas,FEMALE,Los Angeles,Europe,FR,BrandA,17-07-2018,156,Jacket,SKU1966,131.52,1
+Women's Clothing,EUR,James,Anderson,MALE,Houston,Europe,FR,BrandC,07-02-2018,157,Shoes,SKU2474,2064.15,5
+Women's Accessories,EUR,Michael,Anderson,MALE,Los Angeles,North America,US,BrandB,16-08-2018,158,Jacket,SKU6922,1618.44,4
+Women's Clothing,USD,John,White,FEMALE,Boston,Europe,FR,BrandA,05-01-2019,159,Jacket,SKU2061,1334.01,3
+Women's Accessories,USD,David,Martin,MALE,New York,Europe,IT,BrandB,21-10-2018,160,Bag,SKU3392,1776.4,4
+Women's Clothing,USD,Sarah,Johnson,MALE,Los Angeles,Europe,DE,BrandD,07-04-2018,161,Bag,SKU1529,432.6,2
+Women's Accessories,USD,James,Harris,FEMALE,Los Angeles,Europe,FR,BrandA,08-01-2019,162,Hat,SKU7797,837.66,3
+Women's Shoes,USD,John,Johnson,FEMALE,Los Angeles,Europe,ES,BrandD,07-08-2019,163,Shoes,SKU3987,242.12,4
+Women's Accessories,EUR,David,Thomas,MALE,Houston,Europe,FR,BrandD,18-03-2019,164,Jacket,SKU1974,1052.9,5
+Women's Clothing,EUR,Anna,Anderson,FEMALE,Houston,Europe,US,BrandA,28-03-2019,165,Bag,SKU2615,238.66,1
+Women's Shoes,EUR,Anna,Thomas,FEMALE,Los Angeles,Europe,FR,BrandA,13-07-2018,166,Shoes,SKU6900,941.61,3
+Men's Clothing,EUR,Michael,Brown,FEMALE,Boston,Europe,IT,BrandD,29-09-2018,167,Bag,SKU2399,781.02,3
+Women's Clothing,USD,Emily,Anderson,FEMALE,Chicago,North America,FR,BrandC,15-05-2018,168,Bag,SKU3772,147.75,1
+Women's Accessories,EUR,David,Harris,MALE,New York,North America,US,BrandD,21-11-2019,169,Shirt,SKU8397,2268.6,5
+Women's Accessories,USD,David,White,FEMALE,Los Angeles,North America,IT,BrandD,16-01-2018,170,Bag,SKU8935,398.31,3
+Men's Clothing,USD,Emily,Jackson,MALE,Houston,North America,US,BrandC,18-08-2019,171,Shoes,SKU6983,313.89,1
+Women's Shoes,USD,John,Martin,FEMALE,New York,North America,FR,BrandD,04-06-2018,172,Jacket,SKU7570,56.72,4
+Women's Shoes,USD,James,Anderson,MALE,Chicago,North America,US,BrandD,11-12-2018,173,Dress,SKU8810,290.5,2
+Women's Accessories,EUR,John,Martin,FEMALE,Dallas,Europe,FR,BrandA,01-04-2018,174,Shirt,SKU9029,821.31,3
+Men's Shoes,USD,Laura,Anderson,FEMALE,Miami,North America,IT,BrandD,09-05-2018,175,Bag,SKU3497,800.16,2
+Women's Clothing,USD,Sarah,Harris,FEMALE,Boston,North America,DE,BrandB,26-09-2019,176,Bag,SKU4190,1818.25,5
+Women's Clothing,USD,Sarah,Jackson,MALE,Boston,North America,IT,BrandC,08-05-2018,177,Shoes,SKU1107,797.64,2
+Women's Clothing,USD,John,Taylor,FEMALE,Chicago,Europe,US,BrandA,21-01-2018,178,Dress,SKU8528,31.53,1
+Women's Shoes,USD,Chris,Harris,MALE,San Francisco,North America,DE,BrandA,10-08-2019,179,Dress,SKU3474,1218.09,3
+Women's Shoes,EUR,Chris,Martin,FEMALE,San Francisco,North America,US,BrandD,01-07-2018,180,Shoes,SKU7808,494.79,1
+Men's Shoes,EUR,Sarah,Martin,FEMALE,Miami,North America,DE,BrandC,20-12-2019,181,Shoes,SKU5856,1099.14,3
+Women's Shoes,EUR,James,Taylor,MALE,New York,Europe,FR,BrandC,04-01-2019,182,Shirt,SKU1271,417.2,2
+Women's Shoes,USD,David,White,MALE,New York,Europe,IT,BrandA,14-10-2019,183,Hat,SKU9171,1193.52,4
+Women's Accessories,USD,Laura,Thomas,MALE,New York,North America,ES,BrandC,17-04-2018,184,Jacket,SKU8588,52.44,3
+Women's Shoes,USD,Michael,White,FEMALE,Chicago,North America,IT,BrandA,28-05-2018,185,Shoes,SKU5476,968.7,2
+Women's Accessories,USD,Anna,Martin,FEMALE,Chicago,Europe,US,BrandB,24-09-2019,186,Dress,SKU2280,859.62,2
+Women's Shoes,USD,Chris,White,FEMALE,Miami,North America,IT,BrandC,16-04-2018,187,Bag,SKU7135,490.56,4
+Men's Shoes,USD,James,White,MALE,Houston,Europe,IT,BrandD,12-07-2019,188,Shirt,SKU2368,43.88,4
+Women's Accessories,EUR,Laura,Harris,FEMALE,Dallas,Europe,IT,BrandA,07-02-2018,189,Shirt,SKU4271,339.21,3
+Women's Clothing,EUR,Emily,Harris,FEMALE,Dallas,Europe,DE,BrandD,20-11-2018,190,Bag,SKU5168,818.1,5
+Men's Clothing,USD,James,Taylor,MALE,Boston,North America,ES,BrandD,19-08-2018,191,Dress,SKU5837,2293.55,5
+Women's Shoes,EUR,David,Brown,MALE,Miami,North America,US,BrandA,13-06-2019,192,Shirt,SKU3416,756.5,5
+Men's Clothing,USD,Emily,Martin,MALE,Dallas,Europe,ES,BrandD,23-07-2019,193,Shoes,SKU8027,272.04,2
+Men's Clothing,EUR,Anna,Brown,FEMALE,Los Angeles,North America,US,BrandB,25-07-2018,194,Bag,SKU9013,2412.65,5
+Men's Shoes,EUR,John,Martin,MALE,Miami,North America,DE,BrandD,15-08-2018,195,Jacket,SKU7694,1102.08,3
+Women's Accessories,USD,James,Jackson,FEMALE,Los Angeles,Europe,IT,BrandA,10-04-2019,196,Dress,SKU3755,127.18,2
+Women's Accessories,EUR,Jane,Smith,MALE,Los Angeles,Europe,FR,BrandB,30-01-2018,197,Jacket,SKU1198,600,3
+Women's Clothing,USD,Jane,Johnson,MALE,Dallas,Europe,DE,BrandA,30-01-2019,198,Shirt,SKU7178,998.94,3
+Women's Clothing,USD,Emily,Martin,MALE,Houston,Europe,DE,BrandD,13-07-2018,199,Dress,SKU4898,908.04,2
+Women's Shoes,EUR,James,Johnson,FEMALE,Miami,North America,IT,BrandC,03-11-2019,200,Bag,SKU2488,328.23,3
+Men's Shoes,USD,James,White,FEMALE,Los Angeles,Europe,FR,BrandB,11-02-2019,201,Shoes,SKU1566,384.48,3
+Men's Shoes,USD,John,Brown,MALE,Miami,Europe,IT,BrandB,18-10-2019,202,Dress,SKU7624,76.66,2
+Men's Shoes,USD,Anna,Brown,MALE,Chicago,North America,ES,BrandB,05-05-2019,203,Jacket,SKU6405,1927.88,4
+Men's Clothing,EUR,Emily,Jackson,MALE,Chicago,North America,IT,BrandC,17-02-2019,204,Hat,SKU4714,180.64,4
+Women's Accessories,USD,Chris,Johnson,FEMALE,San Francisco,Europe,IT,BrandB,21-08-2019,205,Jacket,SKU4302,389.37,1
+Women's Clothing,USD,Anna,Harris,MALE,San Francisco,North America,FR,BrandD,07-08-2018,206,Jacket,SKU9037,449.96,2
+Women's Accessories,EUR,Sarah,Taylor,FEMALE,Los Angeles,Europe,US,BrandC,16-05-2019,207,Dress,SKU6239,827.2,4
+Men's Shoes,USD,Sarah,Brown,MALE,Los Angeles,North America,FR,BrandB,31-10-2019,208,Jacket,SKU8260,2094.1,5
+Women's Accessories,USD,Emily,Brown,MALE,San Francisco,Europe,FR,BrandA,26-03-2019,209,Bag,SKU4556,2141.65,5
+Men's Clothing,USD,Emily,Harris,MALE,Chicago,North America,IT,BrandA,01-01-2019,210,Shirt,SKU3677,891.5,5
+Men's Shoes,EUR,Sarah,Smith,MALE,San Francisco,Europe,DE,BrandA,04-07-2019,211,Shirt,SKU1447,1261.44,3
+Men's Shoes,EUR,Emily,Harris,FEMALE,Houston,Europe,ES,BrandB,16-01-2019,212,Shirt,SKU9674,457.86,3
+Women's Shoes,USD,Laura,Harris,FEMALE,Chicago,Europe,IT,BrandB,15-03-2018,213,Shoes,SKU9138,57.7,5
+Men's Shoes,EUR,John,Johnson,MALE,Miami,Europe,ES,BrandD,25-08-2019,214,Shoes,SKU5967,450.45,1
+Women's Accessories,EUR,David,Smith,MALE,Houston,North America,ES,BrandD,09-08-2018,215,Jacket,SKU4241,354.84,2
+Men's Shoes,EUR,Sarah,Taylor,FEMALE,Houston,North America,IT,BrandD,05-03-2018,216,Shoes,SKU7613,1280.25,5
+Men's Clothing,EUR,Jane,Thomas,FEMALE,Miami,North America,IT,BrandA,24-05-2018,217,Dress,SKU1279,633.69,3
+Women's Accessories,EUR,Michael,Anderson,FEMALE,Los Angeles,Europe,US,BrandD,11-05-2019,218,Hat,SKU2136,1800.2,5
+Men's Clothing,EUR,Sarah,Johnson,MALE,Miami,North America,FR,BrandC,08-08-2018,219,Dress,SKU2076,86.83,1
+Men's Shoes,EUR,Jane,Anderson,MALE,Boston,Europe,US,BrandA,07-03-2018,220,Shoes,SKU8772,2454.4,5
+Women's Clothing,EUR,James,Anderson,MALE,New York,North America,FR,BrandB,24-08-2018,221,Jacket,SKU4566,1040.1,3
+Men's Clothing,USD,Sarah,Harris,FEMALE,Houston,North America,DE,BrandC,04-09-2019,222,Dress,SKU3178,1188.55,5
+Women's Clothing,USD,Emily,Taylor,FEMALE,Miami,North America,US,BrandA,10-11-2018,223,Bag,SKU1154,1692.6,5
+Women's Accessories,EUR,Sarah,Smith,FEMALE,Boston,Europe,ES,BrandD,27-01-2019,224,Shoes,SKU2090,410.51,1
+Women's Accessories,USD,David,White,MALE,Miami,Europe,US,BrandD,25-09-2019,225,Bag,SKU3537,586.56,2
+Men's Shoes,EUR,Sarah,Harris,MALE,Los Angeles,Europe,FR,BrandB,04-11-2018,226,Bag,SKU8523,1387.62,3
+Women's Shoes,USD,Laura,Smith,MALE,San Francisco,Europe,DE,BrandC,01-12-2019,227,Dress,SKU2591,906,2
+Women's Accessories,USD,Michael,Taylor,FEMALE,San Francisco,North America,IT,BrandA,30-08-2019,228,Shirt,SKU2285,1320.18,3
+Women's Clothing,EUR,Chris,White,MALE,Miami,Europe,IT,BrandC,30-03-2019,229,Jacket,SKU3803,552.04,2
+Women's Accessories,USD,David,Harris,FEMALE,Houston,Europe,ES,BrandC,22-02-2019,230,Dress,SKU6726,917.4,5
+Women's Clothing,USD,Emily,Jackson,FEMALE,Miami,North America,FR,BrandD,17-05-2018,231,Dress,SKU7384,288.57,3
+Women's Shoes,USD,Anna,Brown,MALE,Houston,Europe,DE,BrandB,21-04-2018,232,Hat,SKU5111,2015.85,5
+Women's Shoes,EUR,Emily,Johnson,MALE,Houston,North America,ES,BrandC,17-06-2019,233,Shirt,SKU7512,456.09,3
+Women's Accessories,USD,Emily,Martin,FEMALE,Miami,Europe,DE,BrandD,19-09-2019,234,Hat,SKU6006,492.45,3
+Women's Accessories,EUR,John,Jackson,MALE,Chicago,Europe,ES,BrandA,17-03-2019,235,Dress,SKU6398,492.36,3
+Women's Accessories,USD,Michael,Harris,MALE,Houston,Europe,IT,BrandD,10-12-2019,236,Dress,SKU6718,245.88,2
+Women's Accessories,EUR,Jane,Johnson,MALE,Los Angeles,North America,DE,BrandB,21-08-2018,237,Shirt,SKU3909,1738.16,4
+Women's Clothing,EUR,Chris,White,MALE,Dallas,North America,FR,BrandA,01-12-2018,238,Shirt,SKU6156,943.6,2
+Women's Clothing,EUR,James,Martin,MALE,Dallas,Europe,ES,BrandB,30-03-2019,239,Jacket,SKU4621,808.4,4
+Women's Clothing,USD,Jane,Martin,FEMALE,Houston,North America,IT,BrandB,03-11-2019,240,Bag,SKU1006,42.1,1
+Women's Shoes,USD,John,Harris,MALE,Dallas,Europe,US,BrandA,17-10-2019,241,Hat,SKU7548,122.97,1
+Men's Shoes,USD,Anna,White,FEMALE,Boston,Europe,FR,BrandA,03-04-2018,242,Bag,SKU3497,638.72,2
+Men's Shoes,USD,Sarah,Smith,FEMALE,Chicago,Europe,DE,BrandB,10-09-2019,243,Dress,SKU3499,637.64,2
+Women's Accessories,EUR,Anna,Anderson,FEMALE,Miami,North America,US,BrandC,29-06-2019,244,Hat,SKU7514,1444.71,3
+Women's Accessories,USD,Michael,Taylor,MALE,Miami,North America,FR,BrandB,20-03-2019,245,Shoes,SKU6317,200.22,1
+Women's Clothing,USD,Michael,Jackson,MALE,Miami,North America,FR,BrandD,10-02-2019,246,Jacket,SKU1142,70.72,4
+Women's Clothing,USD,John,Thomas,MALE,New York,North America,IT,BrandB,30-03-2019,247,Shirt,SKU5427,275.94,3
+Women's Shoes,EUR,Emily,Johnson,FEMALE,Boston,North America,FR,BrandA,26-06-2018,248,Hat,SKU8086,501.28,4
+Men's Clothing,EUR,Laura,Anderson,MALE,Miami,North America,ES,BrandA,11-02-2019,249,Dress,SKU8431,566.52,2
+Women's Shoes,EUR,John,Brown,MALE,San Francisco,North America,US,BrandC,05-05-2018,250,Dress,SKU8944,784.75,5
