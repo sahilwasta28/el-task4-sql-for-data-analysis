@@ -1,19 +1,19 @@
-# Elevate Labs Data Analyst Internship - Task 4: SQL for Data Analysis
+# 📂 Elevate Labs Data Analyst Internship - Task 4: SQL for Data Analysis
 
-## Task Overview
+## 📌 Task Overview
 
 This task , completed as part of the **Elevate Labs Data Analyst Internship**, focuses on using SQL to query and analyze data from an Ecommerce dataset. The primary objective was to demonstrate various SQL techniques to draw meaningful insights useful in business decisions.
 
 ---
 
-## Tools and Dataset
+## ⚙️ Tools and Dataset
 
 - **Tools:** SQLite Desktop (DB Browser for SQLite)  
 - **Dataset:** ecommerce.csv 
 
 ---
 
-## SQL Queries and Analysis
+## 📝 SQL Queries and Analysis
 
 This task involved performing a structured analysis of an Ecommerce dataset using a variety of SQL techniques:
 
@@ -27,7 +27,7 @@ This task involved performing a structured analysis of an Ecommerce dataset usin
 
 ---
 
-## Key Insights and Conclusions
+## 🔍 Key Insights and Conclusions
 
 - Identified top cities driving sales and most popular product categories.  
 - Highlighted customer spending patterns and seasonal sales trends.  
@@ -41,5 +41,11 @@ This task involved performing a structured analysis of an Ecommerce dataset usin
 
 ---
 
+## 🙋‍♂️ Author
 
+**Name:** *Sahil Wasta*  
+**Internship Task:** Task 4 - SQL Analysis   
+**Tools Used:** SQLite 
+
+---
 
